@@ -1,4 +1,12 @@
 <html>
-<h1>Shubham</h1>
+<style type="text/css">
+.name
+{
+backgroung color: blue;
+}
+</style>
+<div class=name>
+<h1 >Shubham</h1>
 <h1>Ramteke</h1>
+</div>
 </html>
