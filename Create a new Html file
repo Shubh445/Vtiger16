@@ -1,8 +1,18 @@
 <html>
+//push oeration update(changes) file  and click on Team & commit //local to Globle repo.
+//pull operation update(changes)in file n the github file save and come in eclipse and click on team & reopsitory & pull &close
+//pull  Globle to Local repo.
+
+
+
+
+
+
+
 <style type="text/css">
 .name
 {
-backgroung color: blue;
+backgroung color: blue; 
 }
 </style>
 <div class=name>
